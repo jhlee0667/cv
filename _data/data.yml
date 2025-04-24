@@ -186,7 +186,7 @@ publications:
     intro: >
         (&dagger;: equal contributions)
     papers:
-      - title: PhaseT3M: 3D Imaging at 1.6 Å Resolution via Electron Cryo-Tomography with Nonlinear Phase Retrieval
+      - title: PhaseT3M: 3D Imaging at 1.6 A Resolution via Electron Cryo-Tomography with Nonlinear Phase Retrieval
         link: "https://arxiv.org/abs/2504.16332"
         authors: <b>J. Lee</b>, S. Song, M. Cho, G. Varnavides, S. Ribet, C. Ophus, M. Scott, M. Whittaker
         conference: arXiv:2504.16332
