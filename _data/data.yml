@@ -186,6 +186,11 @@ publications:
     intro: >
         (&dagger;: equal contributions)
     papers:
+      - title: PhaseT3M: 3D Imaging at 1.6 Å Resolution via Electron Cryo-Tomography with Nonlinear Phase Retrieval
+        link: "https://arxiv.org/abs/2504.16332"
+        authors: <b>J. Lee</b>, S. Song, M. Cho, G. Varnavides, S. Ribet, C. Ophus, M. Scott, M. Whittaker
+        conference: arXiv:2504.16332
+    
       - title: Atomic-scale 3D structural dynamics and functional degradation of Pt alloy nanocatalysts
         link: "https://arxiv.org/abs/2411.01727"
         authors: C. Jeong&dagger;, <b>J. Lee</b>&dagger;, H. Jo&dagger;, S. Lee, K. Lee, C. Ophus, P. Ercius, E. Cho, and Y. Yang
