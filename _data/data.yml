@@ -191,10 +191,15 @@ publications:
         authors: <b>J. Lee</b>, S. Song, M. Cho, G. Varnavides, S. Ribet, C. Ophus, M. Scott, M. Whittaker
         conference: arXiv:2504.16332
     
-      - title: Atomic-scale 3D structural dynamics and functional degradation of Pt alloy nanocatalysts
-        link: "https://arxiv.org/abs/2411.01727"
-        authors: C. Jeong&dagger;, <b>J. Lee</b>&dagger;, H. Jo&dagger;, S. Lee, K. Lee, C. Ophus, P. Ercius, E. Cho, and Y. Yang
-        conference: arXiv:2411.01727
+      - title: Atomic-scale 3D structural dynamics and functional degradation of Pt alloy nanocatalysts during the oxygen reduction reaction
+        link: "https://www.nature.com/articles/s41467-025-63448-5"
+        authors: C. Jeong&dagger;, <b>J. Lee</b>&dagger;, H. Jo&dagger;, K. Lee&dagger;, S. Lee, C. Ophus, P. Ercius, E. Cho, and Y. Yang
+        conference: Nature Communications 16, 8026 (2025).
+
+      - title: Advancing atomic electron tomography with neural networks (review paper)
+        link: "https://link.springer.com/article/10.1186/s42649-025-00113-7"
+        authors: <b>J. Lee</b> and Y. Yang
+        conference: Applied Microscopy 55, 7 (2025).
 
       - title: Revealing the three-dimensional arrangement of polar topology in nanoparticles
         link: "https://doi.org/10.1038/s41467-024-48082-x"
