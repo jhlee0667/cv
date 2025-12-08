@@ -124,14 +124,16 @@ presentations:
     
     presentations_title: Presentations
     presentations_info:
+      - title: Multislice-Based Nonlinear Phase Retrieval for High-Fidelity Cryo-Electron Tomography (Oral)
+        tagline: 2025 MRS fall meeting, Boston, Massachusetts, U.S. (November 30 - December 5, 2025)
       - title: High-Resolution Electron Tomography via Nonlinear Phase Retrieval (Poster)
-        tagline: Molecular Foundry user meeting, Berkeley, CA, U.S. (August 13-15, 2025)
+        tagline: Molecular Foundry user meeting, Berkeley, California, U.S. (August 13-15, 2025)
       - title: Electron tomography methods for visualizing charged interfaces (Oral)
-        tagline: RiMG SCM Workshop, Berkeley, CA, U.S. (March 28, 2025)
+        tagline: RiMG SCM Workshop, Berkeley, California, U.S. (March 28, 2025)
       - title: High-Fidelity 3D Imaging Achieved Through Multislice Electron Tomography Using 4D-STEM (Oral)
         tagline: M&M 2023 (Microscopy and Microanalysis), Minneapolis, Minnesota, U.S. (July 23-27, 2023)
       - title: Advanced 3D Imaging via Multislice Electron Tomography using 4D-STEM (Oral)
-        tagline: IUMAS8, Banff, AB, Canada (June 11-16, 2023)
+        tagline: IUMAS8, Banff, Alberta, Canada (June 11-16, 2023)
       - title: Multislice Electron Tomography using 4D-STEM&#58; A High-Precision Approach to 3D Imaging (Invited talk)
         tagline: 2023 Korean Physical Society Spring meeting, Korea (April 19-21, 2023)
       - title: Observing 3D surface/interface atomic structure of 0D nanomaterials (Invited talk)
