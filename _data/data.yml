@@ -73,6 +73,10 @@ experiences:
     additional_activities_title: Additional Activities
     additional_activities_info:
     
+      - role: AI and ML for Microscopy, Hackathon
+        time: 2025.12.16 - 2025.12.18
+        company: University of Tennessee, Knoxville (UTK)
+        details: Topic&#58; Interpretable Digital Twins for Autonomous STEM Aberration Correction
       - role: Qiskit hackathon korea 2022
         time: 2022.2.7 - 2022.2.10
         company: IBM-qiskit, QCenter
@@ -193,9 +197,9 @@ publications:
         (&dagger;: equal contributions)
     papers:
       - title: PhaseT3M&#58; 3D Imaging at 1.6 &angst; Resolution via Electron Cryo-Tomography with Nonlinear Phase Retrieval
-        link: "https://arxiv.org/abs/2504.16332"
+        link: "https://doi.org/10.1038/s41467-025-67303-5"
         authors: <b>J. Lee</b>, S. Song, M. Cho, G. Varnavides, S. Ribet, C. Ophus, M. Scott, M. Whittaker
-        conference: arXiv:2504.16332
+        conference: Nature Communications 16, (2025).
     
       - title: Atomic-scale 3D structural dynamics and functional degradation of Pt alloy nanocatalysts during the oxygen reduction reaction
         link: "https://www.nature.com/articles/s41467-025-63448-5"
