@@ -128,6 +128,10 @@ presentations:
     
     presentations_title: Presentations
     presentations_info:
+      - title: Advanced Cryo-Electron Tomography Via Nonlinear Phase Retrieval (Oral)
+        tagline: 2026 Early Career Spotlight Seminar Series, Berkeley, California, U.S. (January 20, 2026)
+      - title: Multislice-Based Nonlinear Phase Retrieval for High-Resolution Cryo-Electron Tomography (Invited talk)
+        tagline: 2026 SPIE Photonics West, San Francisco, California, U.S. (January 17-22, 2026)
       - title: Multislice-Based Nonlinear Phase Retrieval for High-Fidelity Cryo-Electron Tomography (Oral)
         tagline: 2025 MRS fall meeting, Boston, Massachusetts, U.S. (November 30 - December 5, 2025)
       - title: High-Resolution Electron Tomography via Nonlinear Phase Retrieval (Poster)
@@ -199,7 +203,7 @@ publications:
       - title: PhaseT3M&#58; 3D Imaging at 1.6 &angst; Resolution via Electron Cryo-Tomography with Nonlinear Phase Retrieval
         link: "https://doi.org/10.1038/s41467-025-67303-5"
         authors: <b>J. Lee</b>, S. Song, M. Cho, G. Varnavides, S. Ribet, C. Ophus, M. Scott, M. Whittaker
-        conference: Nature Communications 16, (2025).
+        conference: Nature Communications 17, 690 (2025).
     
       - title: Atomic-scale 3D structural dynamics and functional degradation of Pt alloy nanocatalysts during the oxygen reduction reaction
         link: "https://www.nature.com/articles/s41467-025-63448-5"
