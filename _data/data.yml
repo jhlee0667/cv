@@ -203,10 +203,15 @@ publications:
     intro: >
         (&dagger;: equal contributions)
     papers:
+      - title: Electron Tomography Methods for Visualizing Charged Interfaces. (review chapter)
+        link: "https://doi.org/10.2138/rmg.2026.91B.08"
+        authors: <b>J. Lee</b>, M. Scott, M. Whittaker
+        conference:  Reviews in Mineralogy and Geochemistry 91B, 219–235 (2026).
+    
       - title: PhaseT3M&#58; 3D Imaging at 1.6 &angst; Resolution via Electron Cryo-Tomography with Nonlinear Phase Retrieval
         link: "https://doi.org/10.1038/s41467-025-67303-5"
         authors: <b>J. Lee</b>, S. Song, M. Cho, G. Varnavides, S. Ribet, C. Ophus, M. Scott, M. Whittaker
-        conference: Nature Communications 17, 690 (2025).
+        conference: Nature Communications 17, 690 (2026).
     
       - title: Atomic-scale 3D structural dynamics and functional degradation of Pt alloy nanocatalysts during the oxygen reduction reaction
         link: "https://www.nature.com/articles/s41467-025-63448-5"
