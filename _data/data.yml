@@ -203,7 +203,7 @@ publications:
     intro: >
         (&dagger;: equal contributions)
     papers:
-      - title: Electron Tomography Methods for Visualizing Charged Interfaces. (review chapter)
+      - title: Electron Tomography Methods for Visualizing Charged Interfaces (review chapter)
         link: "https://doi.org/10.2138/rmg.2026.91B.08"
         authors: <b>J. Lee</b>, M. Scott, M. Whittaker
         conference:  Reviews in Mineralogy and Geochemistry 91B, 219–235 (2026).
