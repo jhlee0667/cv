@@ -203,10 +203,15 @@ publications:
     intro: >
         (&dagger;: equal contributions)
     papers:
+      - title: Hydration-controlled twist forms a moire glass in charge-frustrated layered silicates
+        link: "https://doi.org/10.48550/arXiv.2606.18477"
+        authors: <b>J. Lee</b>, P. Zarzycki, C. Ophus, J. Ciston, B. Gilbert, J. Banfield, M. Scott, M. Whittaker
+        conference: arXiv arXiv:2606.18477 [Preprint] (2026). https://doi.org/10.48550/arXiv.2606.18477.
+    
       - title: Electron Tomography Methods for Visualizing Charged Interfaces (review chapter)
         link: "https://doi.org/10.2138/rmg.2026.91B.08"
         authors: <b>J. Lee</b>, M. Scott, M. Whittaker
-        conference:  Reviews in Mineralogy and Geochemistry 91B, 219–235 (2026).
+        conference: Reviews in Mineralogy and Geochemistry 91B, 219–235 (2026).
     
       - title: PhaseT3M&#58; 3D Imaging at 1.6 &angst; Resolution via Electron Cryo-Tomography with Nonlinear Phase Retrieval
         link: "https://doi.org/10.1038/s41467-025-67303-5"
